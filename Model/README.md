@@ -52,7 +52,10 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 
 - GradientBoosting Regression Algorithm is the best fitted Model as it gave the best predicted score.
 
-## Author
 
-- Created by [@EshanRS](https://github.com/EshanRS)
+## CONNECT WITH ME
+
+GitHub: https://github.com/EshanRS
+
+Linkedin: hhttps://www.linkedin.com/in/eshanrs/
 
