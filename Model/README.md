@@ -57,5 +57,5 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 
 GitHub: https://github.com/EshanRS
 
-Linkedin: hhttps://www.linkedin.com/in/eshanrs/
+Linkedin: https://www.linkedin.com/in/eshanrs/
 
